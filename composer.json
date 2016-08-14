@@ -1,0 +1,11 @@
+{
+    "name": "awaresoft/SonataNotificationBundle",
+    "type": "symfony-bundle",
+    "description": "Symfony Awaresoft SonataNotificationBundle",
+    "require": {
+        "php": ">= 7",
+        "symfony/symfony": "2.*"
+    },"autoload": {
+    "psr-4": { "Awaresoft\\SonataNotificationBundle\\": "" }
+}
+}
