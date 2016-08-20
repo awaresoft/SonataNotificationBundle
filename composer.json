@@ -1,5 +1,5 @@
 {
-    "name": "awaresoft/SonataNotificationBundle",
+    "name": "awaresoft/sonata-notification-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Awaresoft SonataNotificationBundle",
     "require": {
